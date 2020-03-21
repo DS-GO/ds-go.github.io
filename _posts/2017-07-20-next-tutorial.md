@@ -22,12 +22,12 @@ tags: Github, jekyll, Git, NexT Theme
 
 * [Github](https://github.com/)
 사이트에 접속해 버전에 맞는 가입을 합니다.
-![Desktop Preview](.\photo\github.jpg)
+![Desktop Preview](./photo/github.jpg)
 
 ## 2. git 설치
 
 * [git](https://git-scm.com/) 사이트에 접속해 버전에 맞는 git을 설치합니다.
-![Desktop Preview](.\photo\git.jpg)
+![Desktop Preview](./photo/git.jpg)
 
 ## 3. git 사용자 등록
 
@@ -36,26 +36,26 @@ tags: Github, jekyll, Git, NexT Theme
 git config --global user.name "깃허브네임"
 git config --global user.email "깃허브이메일"
 ```
-![Desktop Preview](.\photo\git_01.jpg)
+![Desktop Preview](./photo/git_01.jpg)
 
 
 ## 4. github 로그인 및 jekyll theme 계정에 Fork
 
 * google에서 '지킬 테마'를 검색 또는 [jekyll Themes](http://jekyllthemes.org/)에 접속하여 Next Theme 또는 원하는 Theme를 클릭하고, Homepage에 접속해 우측 상단 Fokr를 눌러 자신의 계정에 복제합니다.
 
-![Desktop Preview](.\jekylltheme.jpg)
-![Desktop Preview](.\photo\next_homepage.jpg)
+![Desktop Preview](./photo/jekylltheme.jpg)
+![Desktop Preview](./photo/next_homepage.jpg)
 
 
 ## 5. Repositories rename
 잠시 기다리면 Fork 완료한 상태가 나타나게 되는데 이때 Setting에서 Repository name을 **'깃허브네임.github,io'**로 변경한 후 Rename을 클릭합니다. 향후 위 name이 자신의 주소가 됩니다.
 **깃허브네임과 일치하지 않으면 나중에 로컬과 연동할 때 에러가 발생하게 돼요.**
-![Desktop Preview](.\photo\repositories_rename.jpg)
+![Desktop Preview](./photo/repositories_rename.jpg)
 
 Setting에서 스크롤을 아래로 내리다 보면 Github Pages 아래부분이 초록색으로 나올 경우 개설이 완료됐다는걸 뜻한답니다.
-![Desktop Preview](.\photo\githubpages.jpg)
+![Desktop Preview](./photo/githubpages.jpg)
 주소로 접속하면 적용한 THeme와 함께 페이지가 나타나는데요. 사용자들 마다 다르게 5분안으로 페이지가 적용되어 나타난다고 합니다.
-![Desktop Preview](.\photo\dsgogithub.jpg)
+![Desktop Preview](./photo/dsgogithub.jpg)
 
 
 !@#!%@#!$

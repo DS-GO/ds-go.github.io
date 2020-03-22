@@ -3,14 +3,14 @@ title: Github blog 만들기
 description: 정적사이트인 jekyll을 활용한 Github blog 제작 과정을 소개합니다.
 categories:
  - Github
-tags: Github, jekyll, Git, NexT Theme
+tags: Github, jekyll, Git, NexT Theme, Haroopad
 
 ```sh
 [window 환경]
 ```
 ---
 
->안녕하세요. Github Blog를 처음으로 시작하게되어 제작 과정을 소개하고자 합니다. 다양한 블로그 중에서 직접 꾸밀 수 있고 나만의 특별한 블로그를 제작하고 싶어 GIthub를 시작하게 되었습니다. 초보자인 저를 포함한 처음 접하는 분들을 위한 설명으로 다소 부족한 점이 있어 참고용 정도로만 보시면 좋을거 같아요!
+>안녕하세요. Github Blog를 처음으로 시작하게되어 제작 과정을 소개하고자 합니다. 다양한 블로그 중에서 직접 꾸밀 수 있고 나만의 특별한 블로그를 제작하고 싶어 GIthub를 시작하게 되었습니다. 초보자인 저를 포함한 처음 접하는 분들을 위한 설명으로 다소 부족한 점이 있어 참고용 정도로만 보시면 감사하겠습니다.
 
 
 

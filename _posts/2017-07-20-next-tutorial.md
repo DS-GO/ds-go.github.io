@@ -112,9 +112,7 @@ Git Bash 창에 아래 명령어를 순서대로 입력합니다.
 > git status
 	-> 새로 만들어진 파일이 존재하면 초록색 글자로 표시
 ```
-
-
-요기 위에 명령어 사진
+![Browser support](https://raw.githubusercontent.com/DS-GO/ds-go.github.io/master/photo/githubupload.jpg)
 
 
 ## Upload 한 파일 commit 하기
@@ -129,7 +127,7 @@ Upload한 파일을 최종적으로 Github에 올리기 위해 작업을 확정�
 > git push
 	-> 최종 완료 작업
 ```
-
+![Browser support](https://raw.githubusercontent.com/DS-GO/ds-go.github.io/master/photo/githubpush.jpg)
 
 
 

@@ -10,15 +10,11 @@ tags: Github, jekyll, Git, NexT Theme
 ```
 ---
 
->안녕하세요. Github Blog를 처음으로 시작하게되어 제작 과정을 소개하고자 합니다. 다양한 블로그 중에서 직접 꾸밀 수 있고 나만의 특별한 블로그를 제작하고 싶어 GIthub를 시작하게 되었습니다. 초보자인 저를 포함한 처음 접하는 분들을 위한 설명으로 다소 부족한 점이 있어 참고용 정도로만 보시면 좋을거 같아요! 
+>안녕하세요. Github Blog를 처음으로 시작하게되어 제작 과정을 소개하고자 합니다. 다양한 블로그 중에서 직접 꾸밀 수 있고 나만의 특별한 블로그를 제작하고 싶어 GIthub를 시작하게 되었습니다. 초보자인 저를 포함한 처음 접하는 분들을 위한 설명으로 다소 부족한 점이 있어 참고용 정도로만 보시면 좋을거 같아요!
 
 
 
 <!-- more -->
-
-[Github](https://github.com/) Github 사이트
-[jekyll](https://jekyllrb-ko.github.io/) 한글 번역 사이트
-[git](https://git-scm.com/) Git 사이트
 
 
 ## github 가입
@@ -130,8 +126,8 @@ Upload한 파일을 최종적으로 Github에 올리기 위해 작업을 확정�
 ![Browser support](https://raw.githubusercontent.com/DS-GO/ds-go.github.io/master/photo/githubpush.jpg)
 
 
-
-
+이제 홈페이지에 접속해서 확인해보시면 됩니다.
+![Browser support](https://raw.githubusercontent.com/DS-GO/ds-go.github.io/master/photo/complete.jpg)
 
 
 

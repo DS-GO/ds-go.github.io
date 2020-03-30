@@ -1,5 +1,5 @@
 ---
-title: Github blog 만들기
+title: Github Blog
 description: 정적사이트인 jekyll을 활용한 Github blog 제작 과정을 소개합니다.
 categories:
  - Github

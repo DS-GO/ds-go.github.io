@@ -7,6 +7,7 @@ tags: Github, jekyll, Git, NexT Theme, Haroopad
 
 ```sh
 [window 환경]
+참고사이트 : https://recoveryman.tistory.com/category/Github%20%EC%82%AC%EC%9A%A9%EB%B2%95
 ```
 ---
 
